@@ -1,5 +1,5 @@
 {
-  "name": "saturn-v",
+  "name": "@liro5221/saturn-v",
   "version": "1.0.0",
   "description": "A neat little package",
   "main": "index.js",
@@ -11,5 +11,16 @@
   "dependencies": {
     "discord.js": "^12.4.1"
   },
-  "publishConfig": { "registry": "https://npm.pkg.github.com/" }
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LiRo5221/saturn-v.git"
+  },
+  "bugs": {
+    "url": "https://github.com/LiRo5221/saturn-v/issues"
+  },
+  "homepage": "https://github.com/LiRo5221/saturn-v#readme"
 }
